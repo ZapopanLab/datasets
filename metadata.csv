@@ -1,0 +1,49 @@
+ds:identifier,ds:title,ds:description,ds:keyword,ds:modified,ds:contactPoint,ds:mbox,ds:temporal,ds:spatial,ds:landingPage,ds:accrualPeriodicity,rs:title,rs:description,rs:downloadURL,rs:mediaType,rs:byteSize,rs:temporal,rs:spatial,rs:accrualPeriodicity
+estad-delitos,Estadística de delitos en Zapopan 2001 - 2010,"Delitos patrimoniales, vehículos recuperados/robados, decomisos de droga","Armas, Decomisos, Delitos, Droga, Seguridad, Autos, Policia",2015-06-10T13:21:58+00:00,Zapopan Lab,zapopanlab@zapopan.gob.mx,2001-2010,Zapopan,,,,,,,,,,
+estad-delitos,,,,,,,,,,, Estadística Delitos 2001 2009 -  Delitos Patrimoniales 2001-2009CSV ,"Delitos patrimoniales, vehículos recuperados/robados",https://raw.githubusercontent.com/ZapopanLab/datasets/master/estadistica_delitos_2001-2009_delitos_patrimoniales.csv,text/csv,,2001-2009,Zapopan,
+estad-delitos,,,,,,,,,,, Estadística Delitos 2001 2009 -  Decomisos CSV ,"Delitos patrimoniales, vehículos recuperados/robados",https://raw.githubusercontent.com/ZapopanLab/datasets/master/estadistica_delitos_2001-2009_decomisos.csv,text/csv,,2001-2009,Zapopan,
+estad-delitos,,,,,,,,,,, Estadística Delitos 2001 2009 - Robo vehiculos (sin nombre),"Delitos patrimoniales, vehículos recuperados/robados",https://raw.githubusercontent.com/ZapopanLab/datasets/master/estadistica_delitos_2001-2009_robo_vehiculos-recursosinnombre.csv,text/csv,,2001-2009,Zapopan,
+estad-delitos,,,,,,,,,,, Estadística 2004-2010 ,Decomisos y delitos 2004-2010,https://raw.githubusercontent.com/ZapopanLab/datasets/master/estadistica_2004-2010_decomisos_y_delitos.csv,text/csv,,2004-2010,Zapopan,
+tradiciones-colonia,Tradiciones por colonia en Zapopan,Tradiciones y costumbres por colonia en Zapopan,"costumbres, tradiciones, colonias",2015-06-17T13:00:00+00:00,Zapopan Lab,zapopanlab@zapopan.gob.mx,,Zapopan,,,,,,,,,,
+,,,,,,,,,,,Tradiciones y costumbres por colonia en Zapopan,,https://raw.githubusercontent.com/ZapopanLab/datasets/master/tradiciones_y_costumbres_por_colonia.csv,text/csv,,,Zapopan,
+infraestructura-municipal,Infraestructura urbana,"Infraestuctura urbana disponible en el municipio de Zapopan. Caminos, alumbrado público, agua potable, escuelas, centros culturales y bibliotecas, centros de salud y oficinas administrativas","infraestructura, adoquin, agua, alumbrado, electricidad, empedrado, fosas, pavimiento, terraceria, Biblioteca, Cultura, escuelas, deporte, salud, agencia, delegacion",2015-06-17T13:00:00+00:00,Zapopan Lab,zapopanlab@zapopan.gob.mx,2007-2009,Zapopan,,,,,,,,,,
+infraestructura-municipal,,,,,,,,,,,Infraestructura urbana 2007,"Infraestructura Urbana, Zapopan 2007",https://raw.githubusercontent.com/ZapopanLab/datasets/master/ infraestructura_urbana-2007.xlsx,text/xml,,2007,"Zapopan
+",
+infraestructura-municipal,,,,,,,,,,,Bibliotecas 2009,Ubicación de bibliotecas en el municipio de Zapopan,https://raw.githubusercontent.com/ZapopanLab/datasets/master/bibliotecas_zapopan_2009.csv,text/csv,,2009,"Zapopan
+",
+infraestructura-municipal,,,,,,,,,,,Centros culturales 2009, Ubicación de los centros culturales municipales en Zapopan ,https://raw.githubusercontent.com/ZapopanLab/datasets/master/centros_culturales_2009.csv,text/csv,,2009,"Zapopan
+",
+infraestructura-municipal,,,,,,,,,,,Infraestructura educativa 2009,Ubicación y descripción de clase de escuelas en el municipio de Zapopan,https://raw.githubusercontent.com/ZapopanLab/datasets/master/infraestructura_educativa_2009.csv,text/csv,,2009,"Zapopan
+",
+infraestructura-municipal,,,,,,,,,,,Infraestructura deportiva 2009,Ubicación y descripción de clase de la infraestructura para deporte en el municipio de Zapopan,https://raw.githubusercontent.com/ZapopanLab/datasets/master/infraestructura_deportiva_2009.csv,text/csv,,2009,"Zapopan
+",
+infraestructura-municipal,,,,,,,,,,,Infraestructura para salud 2009,"Ubicación por colonia, nombre y clase de infraestructura que existe en el municipio de Zapopan",https://raw.githubusercontent.com/ZapopanLab/datasets/master/infraestructura_salud_2009.csv,text/csv,,2009,"Zapopan
+",
+infraestructura-municipal,,,,,,,,,,,Oficinas de gobierno,"Ubicación, área y nivel de las oficinas de gobierno en el municipio de Zapopan",https://raw.githubusercontent.com/ZapopanLab/datasets/master/oficinas_de_gobierno.csv,text/csv,,2009,"Zapopan
+",
+infraestructura-municipal,,,,,,,,,,,Delegaciones y agencias 2009,Ubicación por colonia de delegaciones y agencias municipales en Zapopan,https://raw.githubusercontent.com/ZapopanLab/datasets/master/delegaciones_agencias_colonia_2009.csv,text/csv,,2009,"Zapopan
+",
+indicadores-economia,"Comercio en el municipio
+","Indicadores de comercio por clase, centros de comercio y remesas registradas","Comercio, Comercio formal, comercio informal, mercados, plazas, colonias, comercio, tianguis, Migración, Migrantes, economia, Zapopan ",2015-06-18T13:00:00+00:00,Zapopan Lab,zapopanlab@zapopan.gob.mx,2007-2009,Zapopan,,,,,,,,,,
+indicadores-economia,,,,,,,,,,,Comercio formal 2009,Tipo de negocio y cantidad de ellos por colonia en Zapopan,https://raw.githubusercontent.com/ZapopanLab/datasets/master/comercio_formal_2009.csv,text/csv,,2009,"Zapopan
+",
+indicadores-economia,,,,,,,,,,,Comercio informal 2009,"Tipo de giro, número de negocios y colonia en la que se ubican",https://raw.githubusercontent.com/ZapopanLab/datasets/master/comercio_informal_2009.csv ,text/csv,,2009,"Zapopan
+",
+indicadores-economia,,,,,,,,,,,Mercados y Plazas Comerciales 2009,Ubicación por colonia de mercados y plazas en el municipio de Zapopan,https://raw.githubusercontent.com/ZapopanLab/datasets/master/mercados_plazas_comerciales_2009.csv,text/csv,,2009,"Zapopan
+",
+indicadores-economia,,,,,,,,,,,Ubicación de tianguis en Zapopan,Tianguis que se instalan en el municipio y las colonias donde lo hacen,https://raw.githubusercontent.com/ZapopanLab/datasets/master/tianguis_por_colonia.csv,text/csv,,2009,"Zapopan
+",
+indicadores-economia,,,,,,,,,,,Remesas 1995 - 2013,Money orders; Cheques personales; Transferencias electrónicas; Efectivo y especie.,https://raw.githubusercontent.com/ZapopanLab/datasets/master/remesas_1995-2013.csv ,text/csv,,1995-2013,"Zapopan
+",
+religiones-zapopan,Religiones en Zapopan,Religiones profesadas en Zapopan por colonia,"religion, templo, Zapopan",2015-06-18T13:00:00+00:00,Zapopan Lab,zapopanlab@zapopan.gob.mx,,Zapopan,,,,,,,,,,
+religiones-zapopan,,,,,,,,,,,Religiones en Zapopan,Religiones profesadas en Zapopan por colonia,https://raw.githubusercontent.com/ZapopanLab/datasets/master/religiones_en_zapopan.csv,text/csv,,,"Zapopan
+",
+transporte-publico,Rutas de transporte público,Rutas de transporte público y las colonias por las que transitan en Zapopan,"rutas, camiones, transporte, Zapopan",2015-06-18T13:00:00+00:00,Zapopan Lab,zapopanlab@zapopan.gob.mx,,Zapopan,,,,,,,,,,
+transporte-publico,,,,,,,,,,,Rutas de transporte público,Rutas de transporte público y las colonias por las que transitan en Zapopan,https://raw.githubusercontent.com/ZapopanLab/datasets/master/rutas_transporte_publico.csv,text/csv,,,"Zapopan
+",
+datos-pob-inegi,Datos Poblacionales INEGI,Datos poblacionales por colonia en Zapopan de acuerdo al INEGI,"     habitantes, inegi, poblacion, viviendas, Zapopan",2015-06-18T13:00:00+00:00,Zapopan Lab,zapopanlab@zapopan.gob.mx,,Zapopan,,,,,,,,,,
+datos-pob-inegi,,,,,,,,,,,Datos Poblacionales INEGI,Datos poblacionales por colonia en Zapopan de acuerdo al INEGI,https://raw.githubusercontent.com/ZapopanLab/datasets/master/datos_poblacionales_zapopan_inegi.csv,text/csv,,,"Zapopan
+",
+cartografia-zapopan,Cartografía Zapopan,"Colonias de Zapopan, tipo de centro (barrial, vecinal), centroide, inicio, fin.","colonias, cartografia, Zapopan",2015-06-18T13:00:00+00:00,Zapopan Lab,zapopanlab@zapopan.gob.mx,,Zapopan,,,,,,,,,,
+cartografia-zapopan,,,,,,,,,,,Cartografía Zapopan,"Colonias de Zapopan, tipo de centro (barrial, vecinal), centroide, inicio, fin.",https://raw.githubusercontent.com/ZapopanLab/datasets/master/cartografia_zapopan.csv,text/csv,,,"Zapopan
+",
